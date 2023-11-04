@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, GlowCheese is here 👋
 
-<!--
-**GlowCheese/GlowCheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This place is a bit messy but as of now, I don't even care.
 
-Here are some ideas to get you started:
+Have fun wandering around!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-flax-mu-79.vercel.app/api?username=GlowCheese&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats-flax-mu-79.vercel.app/api/top-langs/?username=GlowCheese&layout=compact&theme=dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlowCheese&theme=github-compact">
+</p>
