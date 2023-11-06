@@ -8,6 +8,6 @@ Have fun wandering around!
 
 <p align="center">
   <img src="https://github-readme-stats-flax-mu-79.vercel.app/api?username=GlowCheese&show_icons=true&theme=dark&count_private=true">
-  <img src="https://github-readme-stats-flax-mu-79.vercel.app/api/top-langs/?username=GlowCheese&layout=compact&theme=dark&hide=C&langs_count=8">
+  <img src="https://github-readme-stats-flax-mu-79.vercel.app/api/top-langs/?username=GlowCheese&layout=compact&theme=dark&hide=c&langs_count=8">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlowCheese&theme=github-compact">
 </p>
